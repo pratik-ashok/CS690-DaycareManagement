@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>DaycareManagement</RootNamespace>
     <AssemblyName>DaycareManagement</AssemblyName>
-    <Version>2.0.0</Version>
+    <Version>3.0.0</Version>
     <Description>Daycare Management System for CS690 - Claire's Daycare</Description>
   </PropertyGroup>
 </Project>
