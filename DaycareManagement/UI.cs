@@ -8,7 +8,7 @@ public static class UI
         Console.ForegroundColor = ConsoleColor.Cyan;
         Console.WriteLine();
         Console.WriteLine("  =============================================");
-        Console.WriteLine("    Daycare Management System  v2.0.0");
+        Console.WriteLine("    Daycare Management System  v3.0.0");
         Console.WriteLine("    CS690 Final Project -- Claire's Daycare");
         Console.WriteLine("  =============================================");
         Console.ResetColor();
